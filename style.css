@@ -1,0 +1,69 @@
+ 
+    body {
+        min-width: 600px;
+        min-height: 600px;
+    }
+    
+    .pad {
+        height: 100px;
+        width: 100px;
+        background: #fff;
+    }
+
+    
+    input:hover {
+        background: #eee;
+    }
+    
+    table {
+        min-width: 500px;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    table, th, td {
+        border: 1px dotted gray;
+        text-align: center;
+    }
+    
+    .td_div {
+        width: 120px;
+        height: 120px;
+    }
+
+    div.pad_div {
+        width:120px;
+        overflow: hidden;
+    }
+    
+    .sample_name {
+    }
+    
+    .sample_arrow {
+        width: 30px;
+        height: 20px;
+        text-align: center;
+        background: #fff;
+    }
+    
+    .volume_slider {
+        background: #fff;
+    }
+
+.main {
+    border-style: none;
+}
+
+.pattern {
+    border-style: dotted;
+    height: 150px;
+    text-align: center;
+}
+
+.play_button {
+    padding: 20px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
